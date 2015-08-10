@@ -1,1 +1,1 @@
-# Kendo-Window-Dynamic
+# Angular-Kendo-Window-Dynamic
